@@ -1,0 +1,5 @@
+project: rnshah9/signify
+target: signify
+
+cmds:
+  - cmd: /repo/signify -C -x @@
