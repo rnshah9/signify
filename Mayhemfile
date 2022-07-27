@@ -2,4 +2,4 @@ project: signify
 target: signify
 
 cmds:
-  - cmd: /repo/signify -C -x @@
+  - cmd: /install/bin/signify -C -x @@
